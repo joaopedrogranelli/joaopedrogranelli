@@ -2,6 +2,7 @@
 
 I'm a 18 years old front-end developer from São Paulo, Brazil. I have a great interest in learning and i am always willing to contribute in the best possible way. My passion extends to technology, interacting with people, music, and above all, games and sports, especially volleyball.
 
+
 ## How to reach me:
 
 <a href = "mailto:joao.granelli123@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -23,3 +24,7 @@ I'm a 18 years old front-end developer from São Paulo, Brazil. I have a great i
 • Sass/Scss
 • Vtex
 • Agile methodologies
+
+## 
+
+
