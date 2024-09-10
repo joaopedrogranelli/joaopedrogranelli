@@ -14,6 +14,8 @@ I'm a 19 years old front-end developer from São Paulo, Brazil. I have a great i
 • HTML
 • CSS
 • JavaScript
+• Java
+• Angular
 • GIT/GitHub
 • ReactJS
 • TypeScript
