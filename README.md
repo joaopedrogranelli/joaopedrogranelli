@@ -1,6 +1,6 @@
 # 👨‍💻 João Pedro Granelli
 
-I'm a 18 years old front-end developer from São Paulo, Brazil. I have a great interest in learning and i am always willing to contribute in the best possible way. My passion extends to technology, interacting with people, music, and above all, games and sports, especially volleyball.
+I'm a 19 years old front-end developer from São Paulo, Brazil. I have a great interest in learning and i am always willing to contribute in the best possible way. My passion extends to technology, interacting with people, music, and above all, games and sports, especially volleyball.
 
 
 ## How to reach me:
