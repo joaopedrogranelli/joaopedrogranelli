@@ -91,6 +91,6 @@
 
 ---
 
-## 🐍 Contribution Snake Game
+## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/joaopedrogranelli/joaopedrogranelli/blob/output/github-contribution-grid-snake.svg)
