@@ -50,6 +50,14 @@
 
 ---
 
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/joao-pedro-granelli/)
+- 🧑‍💻 [GitHub](https://github.com/joaopedrogranelli)
+- 📧 joao.granelli123@gmail.com
+
+---
+
 ## 🌆 GitHub Skyline 3D
 
 [![Skyline](https://github.com/joaopedrogranelli/joaopedrogranelli/raw/main/skyline-preview.gif)](https://skyline.github.com/joaopedrogranelli)
@@ -62,14 +70,6 @@
 
 [![Spotify](https://spotify-currently-playing-track-joaopedrogranellis-projects.vercel.app/api)](https://open.spotify.com/user/u5rygyrk7dgl7u7nuabzq8qh8)
 
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/joao-pedro-granelli/)
-- 🧑‍💻 [GitHub](https://github.com/joaopedrogranelli)
-- 📧 joao.granelli123@gmail.com
 
 ---
 
