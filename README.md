@@ -5,20 +5,36 @@
   </a>
 </p>
 
+
 ---
+
 
 ## 🧠 Tech Stack
 
-<p align="center">
+<p align="left">
+  <!-- Front-End -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+
+  <!-- Back-End -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VTEX-E72C37?style=for-the-badge&logo=vtex&logoColor=white" />
+
+  <!-- Git e Versionamento -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+
+  <!-- Outros -->
+  <img src="https://img.shields.io/badge/VTEX-E72C37?style=for-the-badge&logo=vtex&logoColor=white" />
+
+  <!-- Microsoft Stack -->
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0089D6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" />
 </p>
 
 ---
@@ -32,11 +48,19 @@
 
 ---
 
-## 🧩 Microsoft Certifications
+## 🎓 Microsoft Certifications
 
-- PL-200: Power Platform Functional Consultant  
-- PL-400: Power Platform Developer  
-- PL-600: Power Platform Solution Architect  
+<p align="left">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JoaoPedroGranelli-1050/447869D418B5F96C?sharingId=429808EE9A89148A" target="_blank">
+    <img src="https://img.shields.io/badge/PL--200-Power%20Platform%20Functional%20Consultant-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="PL-200 Badge" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JoaoPedroGranelli-1050/D58B862FC80E1CFC?sharingId=429808EE9A89148A" target="_blank">
+    <img src="https://img.shields.io/badge/PL--400-Power%20Platform%20Developer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="PL-400 Badge" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/joaopedrogranelli-1050/credentials/40e2d4424817c0f2" target="_blank">
+    <img src="https://img.shields.io/badge/PL--600-Power%20Platform%20Solution%20Architect-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="PL-600 Badge" />
+  </a>
+</p>
 
 ---
 
@@ -55,12 +79,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/joao-pedro-granelli/)
 - 🧑‍💻 [GitHub](https://github.com/joaopedrogranelli)
 - 📧 joao.granelli123@gmail.com
-
----
-
-## 🌆 GitHub Skyline 3D
-
-[![Skyline](https://github.com/joaopedrogranelli/joaopedrogranelli/raw/main/skyline-preview.gif)](https://skyline.github.com/joaopedrogranelli)
 
 ---
 
