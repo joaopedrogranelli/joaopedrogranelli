@@ -93,4 +93,4 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/joaopedrogranelli/joaopedrogranelli/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/joaopedrogranelli/joaopedrogranelli/output/github-contribution-grid-snake.svg)
