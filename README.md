@@ -59,7 +59,6 @@
 ## 🎧 Spotify — Now Playing
 
 > If I’m coding... I’m probably vibing too 🎵  
-> *(Live status updates via Spotify API)*
 
 [![Spotify](https://spotify-currently-playing-track-joaopedrogranellis-projects.vercel.app/api)](https://open.spotify.com/user/u5rygyrk7dgl7u7nuabzq8qh8)
 
