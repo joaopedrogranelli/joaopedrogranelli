@@ -1,7 +1,7 @@
 <!-- Título animado com efeito de digitação -->
 <p align="center">
   <a href="https://github.com/joaopedrogranelli">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+João+Pedro+Granelli;Software+Developer+%7C+Dynamics+365+Developer+%7C+Power+Platform+Consultant;Welcome+to+my+GitHub!+💻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+João+Pedro+Granelli;Software+Developer+%7C+Dynamics+Developer+%7C+Power+Platform+Consultant;Welcome+to+my+GitHub!+💻" alt="Typing SVG" />
   </a>
 </p>
 
